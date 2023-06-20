@@ -1,6 +1,6 @@
 # ABNBCloneV3
 
-ABNBCloneV3 is a project that aims to clone the functionality of Airbnb. The main component of this project is a RESTful API that allows interaction with the main components of the application.
+ABNBCloneV3 is the third named repository of the Holberton AirBNB Clone projects series. The overarching goal of the series is to learn the tools associated with web development well enough to be able to replicate the popular web platform. The main component of this project is a RESTful API that allows interaction with the main application.
 
 ## RESTful API
 
